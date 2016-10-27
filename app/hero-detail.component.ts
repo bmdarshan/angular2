@@ -6,8 +6,8 @@ import { Location }                 from '@angular/common';
 import { HeroService } from './hero.service';
 
 @Component({
-  selector: 'my-hero-detail',
-  template: `
+	selector: 'my-hero-detail',
+	template: `
     <div *ngIf="hero">
       <h2>{{hero.name}} details!</h2>
       <div><label>id: </label>{{hero.id}}</div>
@@ -19,7 +19,7 @@ import { HeroService } from './hero.service';
   `
 })
 export class HeroDetailComponent {
-	
-  @Input()
-  hero: Hero;
+
+	@Input()
+	hero: Hero;
 }
