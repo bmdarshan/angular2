@@ -9,8 +9,8 @@
 6 silly lifecycle angular-quickstart@1.0.0~prestart: no script for prestart, continuing
 7 info lifecycle angular-quickstart@1.0.0~start: angular-quickstart@1.0.0
 8 verbose lifecycle angular-quickstart@1.0.0~start: unsafe-perm in lifecycle true
-9 verbose lifecycle angular-quickstart@1.0.0~start: PATH: C:\pos_dev\node\node\node_modules\npm\bin\node-gyp-bin;C:\Users\DMukunda\Desktop\github\test\quickstart\node_modules\.bin;%SystemRoot%\system32\WindowsPowerShell\v1.0\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\PROGRA~1\CONDUS~1\DISKEE~1\;C:\Program Files (x86)\Common Files\EMC\;C:\Program Files\TortoiseSVN\bin;C:\pos_dev\node\node;C:\pos_dev\node\npm-1.4.9;C:\pos_dev\java\java8-25\bin;C:\Users\DMukunda\AppData\Local\Programs\Git\cmd;C:\pos_dev\apache-maven-3.2.5\bin;C:\Users\DMukunda\Downloads\sbt\bin
-10 verbose lifecycle angular-quickstart@1.0.0~start: CWD: C:\Users\DMukunda\Desktop\github\test\quickstart
+9 verbose lifecycle angular-quickstart@1.0.0~start: PATH: C:\pos_dev\node\node\node_modules\npm\bin\node-gyp-bin;C:\Users\DMukunda\Desktop\Darshan\Angular2-MEAN-project\angular2\node_modules\.bin;%SystemRoot%\system32\WindowsPowerShell\v1.0\;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\PROGRA~1\CONDUS~1\DISKEE~1\;C:\Program Files (x86)\Common Files\EMC\;C:\Program Files\TortoiseSVN\bin;C:\pos_dev\node\node;C:\pos_dev\node\npm-1.4.9;C:\pos_dev\java\java8-25\bin;C:\Users\DMukunda\AppData\Local\Programs\Git\cmd;C:\pos_dev\apache-maven-3.2.5\bin;C:\Users\DMukunda\Downloads\sbt\bin
+10 verbose lifecycle angular-quickstart@1.0.0~start: CWD: C:\Users\DMukunda\Desktop\Darshan\Angular2-MEAN-project\angular2
 11 silly lifecycle angular-quickstart@1.0.0~start: Args: [ '/d /s /c', 'tsc && concurrently "tsc -w" "node server"' ]
 12 silly lifecycle angular-quickstart@1.0.0~start: Returned: code: 3221225786  signal: null
 13 info lifecycle angular-quickstart@1.0.0~start: Failed to exec start script
@@ -25,7 +25,7 @@
 14 verbose stack     at maybeClose (internal/child_process.js:877:16)
 14 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
 15 verbose pkgid angular-quickstart@1.0.0
-16 verbose cwd C:\Users\DMukunda\Desktop\github\test\quickstart
+16 verbose cwd C:\Users\DMukunda\Desktop\Darshan\Angular2-MEAN-project\angular2
 17 error Windows_NT 6.1.7601
 18 error argv "C:\\pos_dev\\node\\node\\node.exe" "C:\\pos_dev\\node\\node\\node_modules\\npm\\bin\\npm-cli.js" "start"
 19 error node v6.8.0
